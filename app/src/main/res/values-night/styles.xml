@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Mode Custom Style Overrides -->
+    <style name="ItemTitleStyle">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:fontFamily">@font/custom_font</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="ItemDescriptionStyle">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/text_secondary</item>
+    </style>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Custom Style for Item Title with Downloadable Font, Custom Color, Custom Size -->
+    <style name="ItemTitleStyle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:fontFamily">@font/custom_font</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Custom Style for Subtitle / Description -->
+    <style name="ItemDescriptionStyle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/text_secondary</item>
+    </style>
+</resources>
